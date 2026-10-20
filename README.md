@@ -1,4 +1,4 @@
-# querycli — Universal Query Harness
+[# querycli — Universal Query Harness](https://github.com/noahalexandercampbell/querycli)
 
 **querycli** is a zero-dependency Python CLI that runs a structured query expression against JSON, YAML, TOML, CSV, and plain key=value text. It is a single interface for asking "does this file contain X?" without writing a bespoke one-off script for each format.
 

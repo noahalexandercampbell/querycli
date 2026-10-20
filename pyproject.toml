@@ -5,7 +5,7 @@ description = "A unified CLI query harness for JSON, YAML, TOML, CSV, and key=va
 readme = "README.md"
 license = {text = "MIT"}
 requires-python = ">=3.11"
-authors = [{name = "Hermes Agent", email = "hermes@example.com"}]
+authors = [{name = "Dr. Noah Alexander Campbell", email = "292663496+noahalexandercampbell@users.noreply.github.com"}]
 
 [project.scripts]
 querycli = "querycli:main"
